@@ -1,3 +1,3 @@
 <h1> Artemis Linux install scripts and configs </h1>
 
-![Screenshot]()
+![Screenshot](https://github.com/ArtemisLinux/.github/blob/main/profile/assets/screenshot1.png)
